@@ -1,0 +1,1 @@
+[Purchase{name='House', price=90000000, category=OTHERS}, Purchase{name='Christmas Party', price=2500, category=FUN}, Purchase{name='Cookies', price=60, category=FOOD}, Purchase{name='Ice cream', price=80, category=FOOD}]
