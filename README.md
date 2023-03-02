@@ -1,9 +1,9 @@
 # Hi, I'm Raluca! 👋
 
-And here you can find the documentation of the Collections repository
+Here you can find the documentation of the Collections repository
 
 ## 🚀 About Me
-💻(Aspiring) back-end software developer | 👨‍💻Helping companies to build great back-ends | Java, Spring Boot | Passionate about solving problems using technology | 💼 Actively looking for a job |
+💻(Aspiring) back-end software developer | 👨‍💻Helping companies to build great back-ends | Java, Spring Boot | Passionate about solving problems using technology 
 
 
 ## 🛠 Skills
@@ -20,7 +20,7 @@ Back-end development · Unit Testing · Java · Algorithms · OOP · Relational 
 This repository contains:
 - algorithms with collections (Lists, Sets, Maps) in which for/lambda/stream were used
 
-- various small projects in which I applied methods implemented by these collections (adding, accessing, deleting, modifying), (see bookstore, budgetManager, company, transactionManagement, shopCollections, spellChecker, stockCompany)
+- various small projects in which I applied methods implemented by these collections (adding, accessing, deleting, modifying), (see bookstore, budgetManager, IMDb_simulation, company, transactionManagement, shopCollections, spellChecker, stockCompany)
 
 - generics
 
@@ -29,6 +29,18 @@ This repository contains:
 ## Built with
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+## Prerequisites
+
+For building and running the application you need:
+- JDK 1.8 or higher
+- Maven 3
+
+## Dependencies
+
+You don't need any additional dependencies. All dependecies related to database management, server management, security management and so on, will be automatically injected by Maven using the pom.xml file located in the root folder of the project.
+
+# Installation
 
 Clone the project
 
